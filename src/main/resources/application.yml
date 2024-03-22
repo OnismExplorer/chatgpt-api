@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: chatgpt-api
+server:
+  port: 8088
+
+chatgpt:
+  api:
+    key: $$$ OpenAI 秘钥 $$$
